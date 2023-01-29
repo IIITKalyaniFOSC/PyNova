@@ -11,6 +11,7 @@
 **Docs**
 
 - [Python](https://docs.python.org/)
+- [Pygames](https://www.pygame.org/news)
 - [discord.py](https://discordpy.readthedocs.io/en/stable/index.html)
 - [Selenium](https://selenium-python.readthedocs.io/)
 - [OpenCV](https://docs.opencv.org/master/index.html)
