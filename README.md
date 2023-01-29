@@ -1,5 +1,12 @@
 # PyNova
 
+### Projects Demonstrated in this event
+
+- [Drums](https://github.com/ppap1771/Drums)
+- [PyNova-Discord-Bot](https://github.com/chinmay-334/PyNova-Discord-Bot)
+- [invcloak](https://github.com/MashyBasker/invcloak)
+- [Selenium-RickRoll](https://github.com/k3yss/Selenium-RickRoll)
+
 ### Some Resources
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
