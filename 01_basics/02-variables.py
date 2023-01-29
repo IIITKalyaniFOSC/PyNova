@@ -1,5 +1,5 @@
 
-#datatypes
+#datatypes [dynamically typed]
 a = 56          #integer
 b = 10.19       #float
 c = "something" #string
